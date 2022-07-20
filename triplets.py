@@ -1,6 +1,6 @@
 arr = [2,3,4,5,6,7,8,9,15]
 
-s = 18
+s = 20
 
 def triplets(arr,s): 
     arr.sort()
